@@ -404,9 +404,9 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
-{% comment %}
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatibility
   is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
+  {% comment %}
   <h3>Git</h3>
   <p>
     Git is a version control system that lets you track who made changes
