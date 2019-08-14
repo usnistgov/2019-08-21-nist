@@ -404,6 +404,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+{% comment %}
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatibility
   is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
   <h3>Git</h3>
@@ -465,6 +466,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
+  {% endcomment %}
 </div> {% comment %} End of 'Git' section. {% endcomment %}
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
@@ -631,6 +633,7 @@ please preview your site before committing, and make sure to run
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+  {% comment %}
   <h3>R</h3>
 
   <p>
@@ -684,6 +687,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
+  {% endcomment %}
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
@@ -768,6 +772,7 @@ please preview your site before committing, and make sure to run
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+  {% comment %}
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
@@ -817,6 +822,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
+  {% endcomment %}
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
